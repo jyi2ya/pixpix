@@ -8,6 +8,6 @@ A cli pixel art generator written in rust
 $ cargo run -- assets/8620.png
 ```
 
-![8620](assets/8620.png)
+![case1](assets/case1.png)
 
-![wh](assets/wh.jpg)
+![case1](assets/case2.png)
